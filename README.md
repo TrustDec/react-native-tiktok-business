@@ -2,7 +2,7 @@ TikTok link:
 
 apps: https://business-api.tiktok.com/portal/apps
 
-doc: https://business-api.tiktok.com/portal/docs
+docs: https://business-api.tiktok.com/portal/docs
 
-manage: https://business.tiktok.com/manage
+TikTok Business: https://business.tiktok.com/manage
 
